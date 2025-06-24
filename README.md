@@ -3,7 +3,7 @@
 
 Welcome to my personal portfolio website! This site showcases my projects, certifications, technical skills, and professional background. It is built using the iPortfolio Bootstrap template and customized to reflect my profile.
 
-🔗 **Live Site:** https://prashant-gitrepo.github.io/portfolio-website/
+🔗 **Live Site:** https://prashant-gitrepo.github.io/Portfolio-website/
 
 ## 🌐 Features
 
